@@ -2,7 +2,6 @@
 # Hi I'm Adi Jaya Wibawa
 Welcome to my profile! 🤗🤗, I'm Freshman at Asia Institute of Technology and Business. Passionate about front-end development started with HTML & CSS. Also exploring blockchain through courses at Akademi Crypto.
 
-
 #### ABOUT ME
 - Programming Language : HTML, CSS,
 - OS : Debian, Ubuntu, Windows.
@@ -10,7 +9,10 @@ Welcome to my profile! 🤗🤗, I'm Freshman at Asia Institute of Technology an
 
 > You can be a poor person, but don't be an arrogant person.
 
-
+## Yapping
+I'm like technology blockchain, ever me use metamask, phantom, and doing some airdrop.
+My JP Airdrop, i guess :
+- Grass Airdrop
 
 
 
