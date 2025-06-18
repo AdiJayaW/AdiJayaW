@@ -10,8 +10,8 @@ Welcome to my profile! 🤗🤗, I'm Freshman at Asia Institute of Technology an
 > You can be a poor person, but don't be an arrogant person.
 
 ## Yapping
-I'm like technology blockchain, ever me use metamask, phantom, and doing some airdrop.
-My JP Airdrop, i guess :
+I like blockchain technology. I’m familiar with using MetaMask, Phantom, and participating in airdrops.
+The airdrop I hit the jackpot is:
 - Grass Airdrop
 
 
