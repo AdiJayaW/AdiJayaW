@@ -12,7 +12,7 @@ Welcome to my profile! 🤗🤗, I'm Freshman at Asia Institute of Technology an
 ## Yapping
 I like blockchain technology. I’m familiar with using MetaMask, Phantom, and participating in airdrops.
 The airdrop I hit the jackpot is:
-- Grass Airdrop
+- Grass Airdrop (Phase 1)
 
 
 
