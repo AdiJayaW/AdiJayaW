@@ -10,7 +10,7 @@ When I'm not coding, you can find me exploring the world of cryptocurrency, crea
 - 💡 **Interests:** Network Engineering, Cybersecurity, Fullstack Development, & LLM Integration
 - 🚀 **Currently working on:** A smart health-recommendation app utilizing Flutter and Large Language Models (LLM) for PKM (Student Creativity Program).
 - 🤝 **Open for collaboration:** Innovative app development, open-source IT infrastructure tools, or Web3/Crypto projects.
-- 📫 **How to reach me:** [Insert your Email or LinkedIn here]
+- 📫 **How to reach me:** adijayawibawa424@gmail.com 
 
 ---
 
@@ -46,9 +46,9 @@ When I'm not coding, you can find me exploring the world of cryptocurrency, crea
 
 ---
 
-### 📊 GitHub Stats
-[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiJayaW&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiJayaW&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### 📊 GitHub Stats
+[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adijayaw&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adijayaw&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
